@@ -5,7 +5,7 @@
 
     // The data for our dataset
     data: {
-        labels: ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5", "Week 6", "Week 7", "Week 8", "Week 9"],
+        labels: ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5", "Week 6", "Week 7", "Week 8", "Week 9", "Week 10"],
         datasets: [{
             label: "52 Frames contributions - 2018",
             fill: false,
